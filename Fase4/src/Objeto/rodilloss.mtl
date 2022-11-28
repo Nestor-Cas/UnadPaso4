@@ -1,0 +1,26 @@
+# Blender MTL File: 'None'
+# Material Count: 2
+
+newmtl roller_handle
+Ns 224.999983
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump textures\\handle_normal.png
+map_Kd C:\\Users\\Windows 10\\Downloads\\A compañero\\rodillo\\handle_base_color.jpg
+
+newmtl roller_texture
+Ns 224.999983
+Ka 1.000000 1.000000 1.000000
+Kd 0.800000 0.800000 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.000000 0.000000 0.000000
+Ni 1.450000
+d 1.000000
+illum 2
+map_Bump textures\\roller_normal.png
+map_Kd C:\\Users\\Windows 10\\Downloads\\A compañero\\rodillo\\roller_base_color.jpg
